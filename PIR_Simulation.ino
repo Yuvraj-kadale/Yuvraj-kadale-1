@@ -1,5 +1,6 @@
-//Hack for covid
+//Hack against covid
 //Codezoned
+//interfacing PIR sensors with arduino
 
 #include <LiquidCrystal.h>
 
